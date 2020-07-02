@@ -1,0 +1,33 @@
+/* Redux Framework Panel Custom CSS
+--------------------------------------------------*/
+
+#redux-header {
+	background-color: #e5e5e5;
+	background-image: none;
+}
+
+.redux-main span.description {
+	line-height: 1.6;
+}
+
+.redux-sidebar .redux-group-menu li.active a,
+.redux-sidebar .redux-group-menu li a:hover,
+.redux-sidebar .redux-group-menu li.active a:hover {
+	color: #04a4cc ;
+}
+
+.showDefaults {
+	display: none;
+}
+
+.redux-group-tab .form-table-section-indented {
+	margin-left: 0;
+}
+
+.redux-section-field.redux-field h3 {
+	padding-bottom: 10px;
+}
+
+.redux-main .form-table tr {
+	border: none!important;
+}

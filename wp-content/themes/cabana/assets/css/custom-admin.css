@@ -1,0 +1,16 @@
+/* WordPress Media Uploader (Thumbnail Previews)
+--------------------------------------------------*/
+
+.gt-gallery-thumbs { 
+	clear: left; 
+	margin-top: 35px;
+}
+
+.gt-gallery-thumbs li { 
+	float: left;
+	margin-right: 10px;
+}
+
+.gt-gallery-thumbs img { 
+	vertical-align: bottom; 
+}

@@ -1,0 +1,2315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-03-25 13:58-0000\n"
+"PO-Revision-Date: 2014-03-25 13:58-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "It seems a page is missing."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"We can't find what you're looking for. Please use the button below to jump "
+"to the Homepage."
+msgstr ""
+
+#: 404.php:20
+msgid "Go to the Homepage"
+msgstr ""
+
+#: archive.php:21 archive.php:88 archive.php:153
+msgid "Posts in the Category:"
+msgstr ""
+
+#: archive.php:24 archive.php:91 archive.php:156
+msgid "Posts Tagged with:"
+msgstr ""
+
+#: archive.php:27 archive.php:94 archive.php:159
+msgid "Posts By:"
+msgstr ""
+
+#: archive.php:30 archive.php:97 archive.php:162
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:33 archive.php:100 archive.php:165
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:36 archive.php:103 archive.php:168
+msgid "Yearly Archives:"
+msgstr ""
+
+#: archive.php:53 archive.php:120 archive.php:185 index.php:38 index.php:85
+#: index.php:130 single.php:33 single.php:143 single.php:251
+#: page-templates/template-agency-default.php:432
+#: page-templates/template-blog-style.php:63
+msgid "posted on"
+msgstr ""
+
+#: archive.php:53 archive.php:120 archive.php:185 index.php:38 index.php:85
+#: index.php:130 single.php:33 single.php:143 single.php:251
+#: page-templates/template-blog-style.php:63
+msgid "in"
+msgstr ""
+
+#: archive.php:53 archive.php:120 archive.php:185 index.php:38 index.php:85
+#: index.php:130 single.php:33 single.php:143 single.php:251
+#: page-templates/template-blog-style.php:63
+msgid "with"
+msgstr ""
+
+#: archive.php:53 archive.php:120 archive.php:185 index.php:38 index.php:85
+#: index.php:130 single.php:33 single.php:143 single.php:251
+#: page-templates/template-blog-style.php:63
+msgid "Comments"
+msgstr ""
+
+#: archive.php:65 archive.php:132 archive.php:197 index.php:50 index.php:97
+#: index.php:142 search.php:32 page-templates/template-agency-alt.php:467
+#: page-templates/template-blog-style.php:77
+#: page-templates/template-one-page-personal.php:422
+#: page-templates/template-one-page-team.php:477
+msgid "Read Article"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:20
+msgid "currently there's"
+msgstr ""
+
+#: comments.php:20
+msgid "comment(s)"
+msgstr ""
+
+#: footer.php:16
+msgid "Come say hello"
+msgstr ""
+
+#: footer.php:23
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:206
+msgid "Multi-Page Header"
+msgstr ""
+
+#: functions.php:207
+msgid "One Page Header"
+msgstr ""
+
+#: functions.php:273
+msgid "commented on"
+msgstr ""
+
+#: functions.php:273
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:284
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:288
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:306 page-templates/template-contact.php:79
+msgid "Your Name (required)"
+msgstr ""
+
+#: functions.php:311
+msgid "Your Email (will not be published)"
+msgstr ""
+
+#: functions.php:316
+msgid "Your Website (optional)"
+msgstr ""
+
+#: functions.php:329
+msgid "Please leave your comment..."
+msgstr ""
+
+#: functions.php:334
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:340
+#, php-format
+msgid ""
+"You are currently logged in<a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+"\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:351
+msgid "We would love to hear your comments"
+msgstr ""
+
+#: functions.php:352
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions.php:353
+msgid "Cancel reply"
+msgstr ""
+
+#: functions.php:354
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:564 functions/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:565 functions/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:566 functions/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:567
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:578 functions/class-tgm-plugin-activation.php:178
+#: functions/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:579 functions/class-tgm-plugin-activation.php:179
+#: functions/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:580
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header-inner.php:43
+msgid "Back to home"
+msgstr ""
+
+#: product-searchform.php:5
+msgid "Search for products..."
+msgstr ""
+
+#: search.php:18
+msgid "Search Results:"
+msgstr ""
+
+#: search.php:42
+msgid "Sorry, but no results were found. Please try the search again."
+msgstr ""
+
+#: searchform.php:5
+msgid "Enter your search term..."
+msgstr ""
+
+#: single-portfolio.php:43
+msgid "back"
+msgstr ""
+
+#: single-portfolio.php:96 single-portfolio.php:142
+#: page-templates/template-agency-alt.php:137
+#: page-templates/template-agency-default.php:134
+#: page-templates/template-one-page-personal.php:135
+#: page-templates/template-one-page-team.php:135
+#: page-templates/template-portfolio-fullwidth.php:88
+#: page-templates/template-portfolio-showcase.php:76
+#: page-templates/template-portfolio-standard.php:86
+msgid "developed for"
+msgstr ""
+
+#: single-portfolio.php:108 single-portfolio.php:162
+msgid "Client"
+msgstr ""
+
+#: single-portfolio.php:111 single-portfolio.php:165
+msgid "Date Completed"
+msgstr ""
+
+#: single-portfolio.php:115 single-portfolio.php:169
+msgid "Skills/Tools Used"
+msgstr ""
+
+#: single-portfolio.php:127 single-portfolio.php:181
+msgid "View project"
+msgstr ""
+
+#: single-team.php:37
+msgid "My Skills"
+msgstr ""
+
+#: single-team.php:39
+msgid "My Equipment"
+msgstr ""
+
+#: single-team.php:41
+msgid "My Likes"
+msgstr ""
+
+#: single-team.php:43
+msgid "My Dislikes"
+msgstr ""
+
+#: single.php:61 single.php:171 single.php:279
+msgid "article written by"
+msgstr ""
+
+#: framework/class.redux-plugin.php:277
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: framework/class.redux-plugin.php:277
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: framework/class.redux-plugin.php:381
+msgid "Github Repo"
+msgstr ""
+
+#: framework/class.redux-plugin.php:382
+msgid "Issue Tracker"
+msgstr ""
+
+#: framework/class.redux-plugin.php:387
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: framework/class.redux-plugin.php:389
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: framework/config/framework-config.php:19
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/config/framework-config.php:38
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: framework/config/framework-config.php:39
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: framework/config/framework-config.php:40
+msgid "Tags"
+msgstr ""
+
+#: framework/config/framework-config.php:44
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: framework/config/framework-config.php:45
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: framework/config/framework-config.php:163
+#: framework/config/framework-config.php:167
+#: framework/ReduxCore/framework.php:122 framework/ReduxCore/framework.php:128
+#: framework/ReduxCore/framework.php:303 framework/ReduxCore/framework.php:306
+#: framework/ReduxCore/framework.php:1141
+msgid "Options"
+msgstr ""
+
+#: framework/config/framework-config.php:209
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/config/framework-config.php:210
+#: framework/config/framework-config.php:215
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/config/framework-config.php:214
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/config/framework-config.php:219
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/config/framework-config.php:229
+msgid ""
+"<p>Welcome to the Theme Options panel. If you require further assistance "
+"please refer to the help documentation supplied with the theme.</p>"
+msgstr ""
+
+#: framework/config/framework-config.php:231
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: framework/config/framework-config.php:266
+msgid "Homepage"
+msgstr ""
+
+#: framework/config/framework-config.php:273
+msgid "Multi Page or One Page"
+msgstr ""
+
+#: framework/config/framework-config.php:274
+msgid ""
+"Choose if you are either using the theme as Multi Page or One Page.<br /"
+"><br /><strong>Note: This sets certain options dynamically in the theme for "
+"you.</strong>"
+msgstr ""
+
+#: framework/config/framework-config.php:286
+msgid "Homepage Template Select"
+msgstr ""
+
+#: framework/config/framework-config.php:287
+msgid ""
+"Choose the template, which is currently set for your homepage.<br /><br /"
+"><strong>Note: If you are using the Blog Style template you ONLY need to "
+"fill in the About section below.</strong><br /><br /><strong>Note: If you "
+"are using the Portfolio Showcase template you ONLY need to choose the "
+"Portfolio items Select field below.</strong>"
+msgstr ""
+
+#: framework/config/framework-config.php:300
+msgid "Layout Manager"
+msgstr ""
+
+#: framework/config/framework-config.php:301
+msgid ""
+"Organize how you would like the layout to appear on your homepage.<br /><br /"
+"><strong>You can drag & drop sections, and remove them completely if "
+"required.</strong>"
+msgstr ""
+
+#: framework/config/framework-config.php:324
+#: framework/config/framework-config.php:1604
+msgid "About Section"
+msgstr ""
+
+#: framework/config/framework-config.php:330
+msgid "About Icon"
+msgstr ""
+
+#: framework/config/framework-config.php:331
+#: framework/config/framework-config.php:385
+#: framework/config/framework-config.php:489
+#: framework/config/framework-config.php:584
+#: framework/config/framework-config.php:685
+msgid ""
+"Please add an icon to appear above your title. eg; [icon name=fa-heart]<br/"
+"><br />All list of available icons can be found <a href=\"http://fortawesome."
+"github.com/Font-Awesome/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: framework/config/framework-config.php:337
+msgid "About Title"
+msgstr ""
+
+#: framework/config/framework-config.php:338
+msgid "Please enter a title for the about section.<br />eg; So who are Cabana."
+msgstr ""
+
+#: framework/config/framework-config.php:344
+msgid "About Introduction"
+msgstr ""
+
+#: framework/config/framework-config.php:345
+msgid "Please enter a short overview to appear in the about section."
+msgstr ""
+
+#: framework/config/framework-config.php:357
+msgid "About Button Text"
+msgstr ""
+
+#: framework/config/framework-config.php:358
+msgid "Please enter text for your about button.<br />eg; View our work."
+msgstr ""
+
+#: framework/config/framework-config.php:365
+msgid "About Button URL"
+msgstr ""
+
+#: framework/config/framework-config.php:366
+msgid ""
+"Please choose a page for your about button to link to.<br />eg; About Us"
+msgstr ""
+
+#: framework/config/framework-config.php:378
+msgid "Work Section"
+msgstr ""
+
+#: framework/config/framework-config.php:384
+msgid "Work Icon"
+msgstr ""
+
+#: framework/config/framework-config.php:392
+msgid "Portfolio Navigation Visibility"
+msgstr ""
+
+#: framework/config/framework-config.php:393
+msgid ""
+"Choose to show the portfolio navigation in the work section.<br /><br /"
+">Default: Enabled."
+msgstr ""
+
+#: framework/config/framework-config.php:401
+msgid "Work Title"
+msgstr ""
+
+#: framework/config/framework-config.php:402
+msgid "Please enter a title for your work section.<br /><br />eg; Work."
+msgstr ""
+
+#: framework/config/framework-config.php:408
+msgid "Work Subtitle"
+msgstr ""
+
+#: framework/config/framework-config.php:409
+msgid ""
+"Please enter a subtitle for your work section.<br /><br />eg; Some we "
+"prepared earlier."
+msgstr ""
+
+#: framework/config/framework-config.php:416
+msgid "Work Introduction"
+msgstr ""
+
+#: framework/config/framework-config.php:417
+msgid "Please enter a short overview to appear in the work section."
+msgstr ""
+
+#: framework/config/framework-config.php:430
+msgid "Work Button Text"
+msgstr ""
+
+#: framework/config/framework-config.php:431
+msgid "Please enter text for your work button.<br /><br />eg; See all work."
+msgstr ""
+
+#: framework/config/framework-config.php:438
+msgid "Work Button URL"
+msgstr ""
+
+#: framework/config/framework-config.php:439
+msgid ""
+"Please choose a page for your work button to link to.<br />eg; Portfolio"
+msgstr ""
+
+#: framework/config/framework-config.php:445
+msgid "Portfolio items Select"
+msgstr ""
+
+#: framework/config/framework-config.php:446
+msgid ""
+"Please choose how many portfolio items you would like to show in the work "
+"section.<br /><br />Default: 5."
+msgstr ""
+
+#: framework/config/framework-config.php:482
+msgid "Services Section"
+msgstr ""
+
+#: framework/config/framework-config.php:488
+msgid "Services Icon"
+msgstr ""
+
+#: framework/config/framework-config.php:496
+msgid "Services Title"
+msgstr ""
+
+#: framework/config/framework-config.php:497
+msgid ""
+"Please enter a title for your services section.<br /><br />eg; Services."
+msgstr ""
+
+#: framework/config/framework-config.php:503
+msgid "Services Subtitle"
+msgstr ""
+
+#: framework/config/framework-config.php:504
+msgid ""
+"Please enter a subtitle for your services section.<br /><br />eg; This is "
+"what we provide."
+msgstr ""
+
+#: framework/config/framework-config.php:511
+msgid "Services Introduction"
+msgstr ""
+
+#: framework/config/framework-config.php:512
+msgid "Please enter a short overview to appear in the services section."
+msgstr ""
+
+#: framework/config/framework-config.php:525
+msgid "Services Button Text"
+msgstr ""
+
+#: framework/config/framework-config.php:526
+msgid "Please enter text for your services button.<br /><br />eg; All we do."
+msgstr ""
+
+#: framework/config/framework-config.php:533
+msgid "Services Button URL"
+msgstr ""
+
+#: framework/config/framework-config.php:534
+msgid ""
+"Please choose a page for your services button to link to.<br />eg; Services"
+msgstr ""
+
+#: framework/config/framework-config.php:540
+msgid "Service items Select"
+msgstr ""
+
+#: framework/config/framework-config.php:541
+msgid ""
+"Please choose how many service items you would like to show in the services "
+"section.<br /><br />Default: 5."
+msgstr ""
+
+#: framework/config/framework-config.php:577
+msgid "Team / About Me Section"
+msgstr ""
+
+#: framework/config/framework-config.php:583
+msgid "Team / About Me Icon"
+msgstr ""
+
+#: framework/config/framework-config.php:591
+msgid "Team / About Me Title"
+msgstr ""
+
+#: framework/config/framework-config.php:592
+msgid "Please enter a title for your team section.<br /><br />eg; Team."
+msgstr ""
+
+#: framework/config/framework-config.php:598
+msgid "Team / About Me Subtitle"
+msgstr ""
+
+#: framework/config/framework-config.php:599
+msgid ""
+"Please enter a subtitle for your team section.<br /><br />eg; We're a funny "
+"old bunch."
+msgstr ""
+
+#: framework/config/framework-config.php:605
+msgid "Team / About Me Introduction"
+msgstr ""
+
+#: framework/config/framework-config.php:606
+msgid "Please enter a short overview to appear in the team/about me section."
+msgstr ""
+
+#: framework/config/framework-config.php:620
+msgid "Profile Image"
+msgstr ""
+
+#: framework/config/framework-config.php:626
+msgid "Team / About Me Button Text"
+msgstr ""
+
+#: framework/config/framework-config.php:627
+msgid "Please enter text for your team button.<br /><br />eg; Meet 'em all."
+msgstr ""
+
+#: framework/config/framework-config.php:634
+msgid "Team / About Me Button URL"
+msgstr ""
+
+#: framework/config/framework-config.php:635
+msgid ""
+"Please choose a page for your team button to link to.<br />eg; Meet the team"
+msgstr ""
+
+#: framework/config/framework-config.php:641
+msgid "Team items Select"
+msgstr ""
+
+#: framework/config/framework-config.php:642
+msgid ""
+"Please choose how many items you would like to show in the team section.<br /"
+"><br />Default: 5."
+msgstr ""
+
+#: framework/config/framework-config.php:678
+msgid "News Section"
+msgstr ""
+
+#: framework/config/framework-config.php:684
+msgid "News Icon"
+msgstr ""
+
+#: framework/config/framework-config.php:692
+msgid "News Title"
+msgstr ""
+
+#: framework/config/framework-config.php:693
+msgid "Please enter a title for your news section.<br /><br />eg; News."
+msgstr ""
+
+#: framework/config/framework-config.php:699
+msgid "News Subtitle"
+msgstr ""
+
+#: framework/config/framework-config.php:700
+msgid ""
+"Please enter a subtitle for your news section.<br /><br />eg; What we've "
+"written recently."
+msgstr ""
+
+#: framework/config/framework-config.php:706
+msgid "News Introduction"
+msgstr ""
+
+#: framework/config/framework-config.php:707
+msgid "Please enter a short overview to appear in the news section."
+msgstr ""
+
+#: framework/config/framework-config.php:720
+msgid "News Button Text"
+msgstr ""
+
+#: framework/config/framework-config.php:721
+msgid "Please enter text for your news button.<br /><br />eg; Read all posts."
+msgstr ""
+
+#: framework/config/framework-config.php:728
+msgid "News Button URL"
+msgstr ""
+
+#: framework/config/framework-config.php:729
+msgid "Please choose a page for your news button to link to.<br />eg; Blog"
+msgstr ""
+
+#: framework/config/framework-config.php:735
+msgid "News items Select"
+msgstr ""
+
+#: framework/config/framework-config.php:736
+msgid ""
+"Please choose how many items you would like to show in the news section.<br /"
+"><br />Default: 5."
+msgstr ""
+
+#: framework/config/framework-config.php:778
+msgid "Typography"
+msgstr ""
+
+#: framework/config/framework-config.php:783
+#: framework/config/framework-config.php:961
+msgid "Text Logo"
+msgstr ""
+
+#: framework/config/framework-config.php:790
+msgid ""
+"Specify the font properties for your text logo (if you chose this on the "
+"previous page)."
+msgstr ""
+
+#: framework/config/framework-config.php:801
+#: framework/config/framework-config.php:1071
+msgid "Uber Statement"
+msgstr ""
+
+#: framework/config/framework-config.php:808
+msgid "Specify the font properties for your uber statement."
+msgstr ""
+
+#: framework/config/framework-config.php:819
+msgid "Homepage Section Header"
+msgstr ""
+
+#: framework/config/framework-config.php:826
+msgid "Specify the font properties for the homepage section headers."
+msgstr ""
+
+#: framework/config/framework-config.php:838
+msgid "Body Font"
+msgstr ""
+
+#: framework/config/framework-config.php:839
+msgid "Specify the font properties for the body."
+msgstr ""
+
+#: framework/config/framework-config.php:857
+msgid "Body Font (Secondary)"
+msgstr ""
+
+#: framework/config/framework-config.php:858
+msgid "Specify the font properties for the body secondary copy."
+msgstr ""
+
+#: framework/config/framework-config.php:874
+msgid "Body Font (Tertiary)"
+msgstr ""
+
+#: framework/config/framework-config.php:875
+msgid "Specify the font properties for the body tertiary copy."
+msgstr ""
+
+#: framework/config/framework-config.php:892
+msgid "General Headings"
+msgstr ""
+
+#: framework/config/framework-config.php:899
+msgid "Specify the font properties for general headings."
+msgstr ""
+
+#: framework/config/framework-config.php:911
+msgid "Layouts"
+msgstr ""
+
+#: framework/config/framework-config.php:916
+msgid "Standard Page Layout"
+msgstr ""
+
+#: framework/config/framework-config.php:917
+msgid ""
+"Choose the layout for your standard pages. You can choose between full-width "
+"or with sidebar."
+msgstr ""
+
+#: framework/config/framework-config.php:928
+msgid "Blog Page Layout"
+msgstr ""
+
+#: framework/config/framework-config.php:929
+msgid ""
+"Choose the layout for your blog pages. You can choose between full-width or "
+"with sidebar."
+msgstr ""
+
+#: framework/config/framework-config.php:942
+msgid "Header"
+msgstr ""
+
+#: framework/config/framework-config.php:948
+msgid "Custom Logo"
+msgstr ""
+
+#: framework/config/framework-config.php:955
+msgid "Image Logo"
+msgstr ""
+
+#: framework/config/framework-config.php:956
+msgid "Upload your own logo to appear in the theme."
+msgstr ""
+
+#: framework/config/framework-config.php:962
+msgid ""
+"Uncheck this option if you chose an image logo above<br /><br />(default: "
+"true)."
+msgstr ""
+
+#: framework/config/framework-config.php:974
+msgid "Favicon / Touch Icons"
+msgstr ""
+
+#: framework/config/framework-config.php:981
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/config/framework-config.php:982
+msgid "Upload an image file that will represent your website favicon"
+msgstr ""
+
+#: framework/config/framework-config.php:988
+msgid "Apple Touch Icon (iPhone/iPod)"
+msgstr ""
+
+#: framework/config/framework-config.php:989
+msgid ""
+"Upload an image file that will represent your Apple touch icon for non-"
+"retina iPhone/iPod (Size must be 60x60px). "
+msgstr ""
+
+#: framework/config/framework-config.php:995
+msgid "Apple Touch Icon (iPad)"
+msgstr ""
+
+#: framework/config/framework-config.php:996
+msgid ""
+"Upload an image file that will represent your Apple touch icon for non-"
+"retina iPad (Size must be 76x76px). "
+msgstr ""
+
+#: framework/config/framework-config.php:1002
+msgid "Apple Touch Icon (iPhone/iPod Retina)"
+msgstr ""
+
+#: framework/config/framework-config.php:1003
+msgid ""
+"Upload an image file that will represent your Apple touch icon for retina "
+"iPhone/iPod (Size must be 120x120px). "
+msgstr ""
+
+#: framework/config/framework-config.php:1009
+msgid "Apple Touch Icon (iPad Retina)"
+msgstr ""
+
+#: framework/config/framework-config.php:1010
+msgid ""
+"Upload an image file that will represent your Apple touch icon for retina "
+"iPad (Size must be 152x152px). "
+msgstr ""
+
+#: framework/config/framework-config.php:1021
+msgid "Header Images"
+msgstr ""
+
+#: framework/config/framework-config.php:1022
+msgid "Upload a selection of images to use in your homepage header."
+msgstr ""
+
+#: framework/config/framework-config.php:1030
+msgid "Header Image #1"
+msgstr ""
+
+#: framework/config/framework-config.php:1039
+msgid "Header Image #2"
+msgstr ""
+
+#: framework/config/framework-config.php:1048
+msgid "Header Image #3"
+msgstr ""
+
+#: framework/config/framework-config.php:1057
+msgid "Header Image #4"
+msgstr ""
+
+#: framework/config/framework-config.php:1076
+msgid "Uber Statement Text"
+msgstr ""
+
+#: framework/config/framework-config.php:1078
+msgid ""
+"Please enter your uber statement<br />(eg; Creating quite stunning online "
+"experiences)."
+msgstr ""
+
+#: framework/config/framework-config.php:1084
+msgid "Uber Statement Button Text"
+msgstr ""
+
+#: framework/config/framework-config.php:1085
+msgid "Enter the text to appear on your button<br />(eg; View our work)."
+msgstr ""
+
+#: framework/config/framework-config.php:1092
+msgid "Uber Statement Button URL (Multi Page version)"
+msgstr ""
+
+#: framework/config/framework-config.php:1093
+msgid ""
+"Please choose a page for your uber statement button to link to.<br />eg; "
+"Portfolio"
+msgstr ""
+
+#: framework/config/framework-config.php:1099
+msgid "Uber Statement Button URL (Single Page version)"
+msgstr ""
+
+#: framework/config/framework-config.php:1100
+msgid ""
+"Please choose a section for your uber statement button to scroll to.<br /"
+">eg; Portfolio"
+msgstr ""
+
+#: framework/config/framework-config.php:1122
+#: framework/config/framework-config.php:1686
+msgid "Footer"
+msgstr ""
+
+#: framework/config/framework-config.php:1127
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/config/framework-config.php:1128
+msgid ""
+"Please enter the text to appear at the bottom of your Footer (eg; All rights "
+"reserved. A GuuThemes production.)"
+msgstr ""
+
+#: framework/config/framework-config.php:1134
+msgid "Google Analytics Tracking Code"
+msgstr ""
+
+#: framework/config/framework-config.php:1135
+msgid ""
+"Paste your Google Analytics tracking code here (Remember you need to paste "
+"all the Javascript code, not just your ID). This will be added into the "
+"footer template of your theme.<br /><br />Do not have Google Analytics? "
+"Unsure what to paste in this box? Visit this <a href=\"http://www.google.com/"
+"analytics\" target=\"_blank\">link</a> to find out more."
+msgstr ""
+
+#: framework/config/framework-config.php:1143
+msgid "Twitter Divider"
+msgstr ""
+
+#: framework/config/framework-config.php:1149
+msgid "Divider Background"
+msgstr ""
+
+#: framework/config/framework-config.php:1150
+msgid "Upload a background image for your Twitter divider."
+msgstr ""
+
+#: framework/config/framework-config.php:1159
+msgid "Twitter ID"
+msgstr ""
+
+#: framework/config/framework-config.php:1160
+msgid ""
+"Enter your Twitter ID<br />(eg; 345735908357048478).<br />This enables you "
+"to show your latest tweet.<br /><br /><strong>Please refer to the "
+"documentation supplied on how to get your Twitter ID.</strong>"
+msgstr ""
+
+#: framework/config/framework-config.php:1166
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: framework/config/framework-config.php:1167
+msgid ""
+"Enter your Twitter profile URL<br />(eg; https://twitter.com/guuthemes)."
+msgstr ""
+
+#: framework/config/framework-config.php:1175
+msgid "Quotes Divider"
+msgstr ""
+
+#: framework/config/framework-config.php:1181
+msgid "Divider Background #1"
+msgstr ""
+
+#: framework/config/framework-config.php:1182
+msgid "Upload a background image for your top quotes."
+msgstr ""
+
+#: framework/config/framework-config.php:1192
+msgid "Divider Background #2"
+msgstr ""
+
+#: framework/config/framework-config.php:1193
+msgid "Upload a background image for your bottom quotes."
+msgstr ""
+
+#: framework/config/framework-config.php:1204
+msgid "Buttons"
+msgstr ""
+
+#: framework/config/framework-config.php:1209
+msgid "Standard Buttons"
+msgstr ""
+
+#: framework/config/framework-config.php:1210
+msgid "Here you can style the majority of the buttons in your theme."
+msgstr ""
+
+#: framework/config/framework-config.php:1217
+#: framework/config/framework-config.php:1260
+#: framework/config/framework-config.php:1303
+#: framework/config/framework-config.php:1346
+#: framework/config/framework-config.php:1389
+#: framework/config/framework-config.php:1432
+#: framework/config/framework-config.php:1579
+#: framework/config/framework-config.php:1612
+#: framework/config/framework-config.php:1645
+#: framework/config/framework-config.php:1694
+msgid "Text Color"
+msgstr ""
+
+#: framework/config/framework-config.php:1218
+#: framework/config/framework-config.php:1261
+msgid "Pick a text color for your standard button (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1227
+#: framework/config/framework-config.php:1270
+#: framework/config/framework-config.php:1313
+#: framework/config/framework-config.php:1356
+#: framework/config/framework-config.php:1399
+#: framework/config/framework-config.php:1442
+msgid "Normal State"
+msgstr ""
+
+#: framework/config/framework-config.php:1228
+msgid ""
+"Pick a background color for your standard button normal state (default: "
+"#333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1237
+#: framework/config/framework-config.php:1280
+#: framework/config/framework-config.php:1323
+#: framework/config/framework-config.php:1366
+#: framework/config/framework-config.php:1409
+#: framework/config/framework-config.php:1452
+msgid "Hover State"
+msgstr ""
+
+#: framework/config/framework-config.php:1238
+msgid ""
+"Pick a background color for your standard button hover state (default: "
+"#dd3e3e)."
+msgstr ""
+
+#: framework/config/framework-config.php:1252
+msgid "Uber Statement Button"
+msgstr ""
+
+#: framework/config/framework-config.php:1253
+msgid "Here you can style the button that appears with your Uber Statement."
+msgstr ""
+
+#: framework/config/framework-config.php:1271
+msgid ""
+"Pick a background color for your standard button normal state (default: "
+"#dd3e3e)."
+msgstr ""
+
+#: framework/config/framework-config.php:1281
+msgid ""
+"Pick a background color for your standard button hover state (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1295
+msgid "About Button"
+msgstr ""
+
+#: framework/config/framework-config.php:1296
+msgid "Here you can style the button that appears in the About area."
+msgstr ""
+
+#: framework/config/framework-config.php:1304
+msgid "Pick a text color for your about button (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1314
+msgid ""
+"Pick a background color for your about button normal state (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1324
+msgid ""
+"Pick a background color for your about button hover state (default: #dd3e3e)."
+msgstr ""
+
+#: framework/config/framework-config.php:1338
+msgid "Footer Button"
+msgstr ""
+
+#: framework/config/framework-config.php:1339
+msgid "Here you can style the button that appears in the footer."
+msgstr ""
+
+#: framework/config/framework-config.php:1347
+msgid "Pick a text color for your footer button (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1357
+msgid ""
+"Pick a background color for your footer button normal state (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1367
+msgid ""
+"Pick a background color for your footer button hover state (default: "
+"#dd3e3e)."
+msgstr ""
+
+#: framework/config/framework-config.php:1381
+msgid "Portfolio Filter Buttons"
+msgstr ""
+
+#: framework/config/framework-config.php:1382
+msgid "Here you can style the buttons for the portfolio filter."
+msgstr ""
+
+#: framework/config/framework-config.php:1390
+msgid "Pick a text color for your filter button (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1400
+msgid ""
+"Pick a background color for your filter button normal state (default: #ddd)."
+msgstr ""
+
+#: framework/config/framework-config.php:1410
+msgid ""
+"Pick a background color for your filter button hover state (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1424
+msgid "Post Tag Button"
+msgstr ""
+
+#: framework/config/framework-config.php:1425
+msgid "Here you can style the buttons for your post tags."
+msgstr ""
+
+#: framework/config/framework-config.php:1433
+msgid "Pick a text color for your post tags button (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1443
+msgid ""
+"Pick a background color for your post tags button normal state (default: "
+"#ddd)."
+msgstr ""
+
+#: framework/config/framework-config.php:1453
+msgid ""
+"Pick a background color for your post tags button hover state (default: "
+"#333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1469
+msgid "Colors"
+msgstr ""
+
+#: framework/config/framework-config.php:1475
+#: framework/config/framework-config.php:1483
+msgid "Text Logo Color"
+msgstr ""
+
+#: framework/config/framework-config.php:1476
+msgid "Here you can choose the color for your text logo."
+msgstr ""
+
+#: framework/config/framework-config.php:1484
+msgid "Pick a color for your text logo (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1498
+msgid "Icon Color"
+msgstr ""
+
+#: framework/config/framework-config.php:1499
+msgid ""
+"Here you can choose color settings for the various icons used in the theme."
+msgstr ""
+
+#: framework/config/framework-config.php:1506
+msgid "Service Icons"
+msgstr ""
+
+#: framework/config/framework-config.php:1507
+msgid "Pick a color for your service icons (default: #ddd)."
+msgstr ""
+
+#: framework/config/framework-config.php:1516
+msgid "Homepage Section Icons"
+msgstr ""
+
+#: framework/config/framework-config.php:1517
+msgid "Pick a color for your homepage section icons (default: #ddd)."
+msgstr ""
+
+#: framework/config/framework-config.php:1526
+msgid "Team Member Social Icons"
+msgstr ""
+
+#: framework/config/framework-config.php:1527
+msgid "Pick a color for your team social icons (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1536
+msgid "Header Social Icons"
+msgstr ""
+
+#: framework/config/framework-config.php:1537
+msgid "Pick a color for your header social icons (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1546
+msgid "Portfolo Project Icon"
+msgstr ""
+
+#: framework/config/framework-config.php:1547
+msgid "Pick a color for your project icon (default: #ddd)."
+msgstr ""
+
+#: framework/config/framework-config.php:1556
+msgid "Author Bio Icons"
+msgstr ""
+
+#: framework/config/framework-config.php:1557
+msgid "Pick a color for your author icon (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1571
+msgid "Date Stamp"
+msgstr ""
+
+#: framework/config/framework-config.php:1572
+msgid "Here you can style the date stamps that appear with your posts."
+msgstr ""
+
+#: framework/config/framework-config.php:1580
+msgid "Pick a text color for your date stamp (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1589
+#: framework/config/framework-config.php:1622
+#: framework/config/framework-config.php:1671
+#: framework/config/framework-config.php:1704
+msgid "Background Color"
+msgstr ""
+
+#: framework/config/framework-config.php:1590
+msgid "Pick a background color for your date stamp (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1605
+msgid "Here you can style the about area at the top of your homepage."
+msgstr ""
+
+#: framework/config/framework-config.php:1613
+msgid "Pick a text color for your about area (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1623
+msgid "Pick a background color for your about area (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1637
+msgid "Contact Section"
+msgstr ""
+
+#: framework/config/framework-config.php:1638
+msgid "Here you can style the contact area on your homepage."
+msgstr ""
+
+#: framework/config/framework-config.php:1646
+msgid "Pick a text color for your contact area (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1654
+msgid "Contact Form Bottom Border"
+msgstr ""
+
+#: framework/config/framework-config.php:1655
+msgid "Adjust the bottom border for your text fields (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1672
+msgid "Pick a background color for your contact area (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1687
+msgid "Here you can style the footer area."
+msgstr ""
+
+#: framework/config/framework-config.php:1695
+msgid "Pick a text color for your footer area (default: #fff)."
+msgstr ""
+
+#: framework/config/framework-config.php:1705
+msgid "Pick a background color for your footer area (default: #333)."
+msgstr ""
+
+#: framework/config/framework-config.php:1720
+msgid "Google Map"
+msgstr ""
+
+#: framework/config/framework-config.php:1725
+msgid "Latitude"
+msgstr ""
+
+#: framework/config/framework-config.php:1726
+msgid "Please enter the Latitude value for your location. (eg; 53.481508)"
+msgstr ""
+
+#: framework/config/framework-config.php:1731
+msgid "Longitude"
+msgstr ""
+
+#: framework/config/framework-config.php:1732
+msgid "Please enter the Longitude value for your location. (eg; -2.250613)"
+msgstr ""
+
+#: framework/config/framework-config.php:1739
+msgid "Contact"
+msgstr ""
+
+#: framework/config/framework-config.php:1744
+msgid "Contact Details Title"
+msgstr ""
+
+#: framework/config/framework-config.php:1745
+msgid "Please enter a title for your contact details. (eg; Contact Info.)"
+msgstr ""
+
+#: framework/config/framework-config.php:1750
+msgid "Contact Address"
+msgstr ""
+
+#: framework/config/framework-config.php:1751
+msgid ""
+"Please enter your company address (eg; 10 Columbus Circle, New York, NY "
+"10019, United States.)"
+msgstr ""
+
+#: framework/config/framework-config.php:1756
+msgid "Contact Telephone"
+msgstr ""
+
+#: framework/config/framework-config.php:1757
+msgid "Please enter your company landline number (eg; (212) 823-6000.)"
+msgstr ""
+
+#: framework/config/framework-config.php:1762
+msgid "Contact Mobile"
+msgstr ""
+
+#: framework/config/framework-config.php:1763
+msgid "Please enter your company mobile number (eg; (212) 823-6001.)"
+msgstr ""
+
+#: framework/config/framework-config.php:1768
+msgid "Contact Email"
+msgstr ""
+
+#: framework/config/framework-config.php:1769
+msgid ""
+"Please enter your company email address (eg; marc@guuthemes.com) This will "
+"also populate into your Contact Form."
+msgstr ""
+
+#: framework/config/framework-config.php:1777
+msgid "Social"
+msgstr ""
+
+#: framework/config/framework-config.php:1782
+msgid "Twitter"
+msgstr ""
+
+#: framework/config/framework-config.php:1783
+msgid "Enter your Twitter Profile URL (ie; http://twitter.com/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1789
+msgid "Facebook"
+msgstr ""
+
+#: framework/config/framework-config.php:1790
+msgid "Enter your Facebook Profile URL (ie; http://facebook.com/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1796
+msgid "Linkedin"
+msgstr ""
+
+#: framework/config/framework-config.php:1797
+msgid "Enter your Linkedin Profile URL (ie; http://linkedin.com/in/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1803
+msgid "Pinterest"
+msgstr ""
+
+#: framework/config/framework-config.php:1804
+msgid "Enter your Pinterest Profile URL (ie; http://pinterest.com/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1810
+msgid "Google +"
+msgstr ""
+
+#: framework/config/framework-config.php:1811
+msgid "Enter your Google + Profile URL (ie; http://plus.google.com/+guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1817
+msgid "Flickr"
+msgstr ""
+
+#: framework/config/framework-config.php:1818
+msgid "Enter your Flickr Profile URL (ie; http://flickr.com/photos/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1824
+msgid "Instagram"
+msgstr ""
+
+#: framework/config/framework-config.php:1825
+msgid "Enter your Instagram Profile URL (ie; http://instagram.com/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1831
+msgid "Dribbble"
+msgstr ""
+
+#: framework/config/framework-config.php:1832
+msgid "Enter your Dribbble Profile URL (ie; http://dribbble.com/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1838
+msgid "YouTube"
+msgstr ""
+
+#: framework/config/framework-config.php:1839
+msgid "Enter your YouTube Profile URL (ie; http://youtube.com/user/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1845
+msgid "Vimeo"
+msgstr ""
+
+#: framework/config/framework-config.php:1846
+msgid "Enter your Vimeo Profile URL (ie; http://vimeo.com/guuthemes)"
+msgstr ""
+
+#: framework/config/framework-config.php:1869
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: framework/config/framework-config.php:1870
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: framework/config/framework-config.php:1871
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: framework/config/framework-config.php:1874
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: framework/config/framework-config.php:1881
+#: framework/config/framework-config.php:1913
+msgid "Documentation"
+msgstr ""
+
+#: framework/config/framework-config.php:1899
+msgid "Theme Information"
+msgstr ""
+
+#: framework/config/framework-config.php:1939
+msgid "Section via hook"
+msgstr ""
+
+#: framework/config/framework-config.php:1940
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:300
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:300
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1062
+#: framework/ReduxCore/framework.php:1063
+#: framework/ReduxCore/framework.php:2477
+msgid "Import / Export"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1074
+#: framework/ReduxCore/framework.php:1075
+#: framework/ReduxCore/framework.php:2493
+#: framework/ReduxCore/framework.php:2608
+msgid "Options Object"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1086
+#: framework/ReduxCore/framework.php:1087
+#: framework/ReduxCore/framework.php:2507
+#: framework/ReduxCore/framework.php:2626
+msgid "System Info"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1441
+#: framework/ReduxCore/extensions/customizer/extension_customizer.php:341
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1442
+#: framework/ReduxCore/extensions/customizer/extension_customizer.php:342
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1443
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1444
+#: framework/ReduxCore/extensions/customizer/extension_customizer.php:343
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:1719
+msgid "Default"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2344
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2406
+msgid "Expand"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2408
+#: framework/ReduxCore/framework.php:2676
+msgid "Save Changes"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2410
+#: framework/ReduxCore/framework.php:2678
+msgid "Reset Section"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2412
+#: framework/ReduxCore/framework.php:2680
+msgid "Reset All"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2415
+#: framework/ReduxCore/framework.php:2683
+msgid "Working..."
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2426
+msgid "Settings Imported!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2432
+msgid "Settings Saved!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2439
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2440
+msgid "error(s) were found!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2441
+msgid "warning(s) were found!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2544
+msgid "Import / Export Options"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2545
+msgid "Import Options"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2546
+msgid "Import from file"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2546
+msgid "Import from URL"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2555
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2569
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2580
+msgid "Import"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2580
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2583
+msgid "Export Options"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2589
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2594
+msgid "Copy"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2594
+msgid "Download"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2594
+msgid "Copy Link"
+msgstr ""
+
+#: framework/ReduxCore/framework.php:2615
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: framework/ReduxCore/extensions/customizer/extension_customizer.php:372
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: framework/ReduxCore/extensions/customizer/extension_customizer.php:373
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: framework/ReduxCore/extensions/customizer/extension_customizer.php:374
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: framework/ReduxCore/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: framework/ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: framework/ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:119
+#: framework/ReduxCore/inc/fields/color/field_color.php:72
+#: framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:136
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:152
+msgid "Background Clip"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:168
+msgid "Background Origin"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:183
+msgid "Background Size"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:198
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:218
+msgid "Background Position"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:273
+#: framework/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:307
+#: framework/ReduxCore/inc/fields/media/field_media.php:155
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:121
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/background/field_background.php:313
+#: framework/ReduxCore/inc/fields/media/field_media.php:161
+#: framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:82
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:128
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:192
+msgid "Remove"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/border/field_border.php:112
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:172
+msgid "All"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/border/field_border.php:125
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:196
+msgid "Top"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/border/field_border.php:132
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:203
+msgid "Right"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/border/field_border.php:139
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:210
+msgid "Bottom"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/border/field_border.php:146
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:217
+msgid "Left"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:139
+msgid "Width"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:155
+msgid "height"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:168
+#: framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:169
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:227
+#: framework/ReduxCore/inc/fields/spacing/field_spacing.php:228
+msgid "Units"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/select/field_select.php:79
+#: framework/ReduxCore/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/select/field_select.php:120
+#: framework/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:197
+msgid "Title"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:135
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:199
+msgid "Description"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:137
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:168
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:141
+msgid "Font family"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:164
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:200
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:204
+msgid "Font style"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:204
+msgid "Style"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:230
+msgid "Font subsets"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Subsets"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font script"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:249
+msgid "Size"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:258
+msgid "Height"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:266
+msgid "Word Spacing"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:288
+msgid "Backup Font Family"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:308
+msgid "Font color"
+msgstr ""
+
+#: framework/ReduxCore/inc/fields/typography/field_typography.php:635
+msgid "Google Webfonts"
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:517
+#: functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:81
+#: page-templates/template-agency-default.php:65
+#: page-templates/template-one-page-personal.php:81
+#: page-templates/template-one-page-team.php:81
+#: page-templates/template-portfolio-fullwidth.php:32
+#: page-templates/template-portfolio-showcase.php:22
+#: page-templates/template-portfolio-standard.php:32
+msgid "Show all"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:286
+#: page-templates/template-agency-default.php:268
+#: page-templates/template-one-page-personal.php:274
+#: page-templates/template-one-page-team.php:274
+msgid "follow on Twitter"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:346
+#: page-templates/template-agency-default.php:327
+#: page-templates/template-one-page-team.php:336
+#: page-templates/template-team.php:51
+msgid "operating as"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:463
+#: page-templates/template-one-page-personal.php:418
+#: page-templates/template-one-page-team.php:473
+msgid "posted in"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:504
+#: page-templates/template-agency-default.php:469
+#: page-templates/template-one-page-personal.php:455
+#: page-templates/template-one-page-team.php:510
+msgid "Name"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:506
+#: page-templates/template-agency-default.php:471
+#: page-templates/template-one-page-personal.php:457
+#: page-templates/template-one-page-team.php:512
+msgid "Email"
+msgstr ""
+
+#: page-templates/template-agency-alt.php:508
+#: page-templates/template-agency-default.php:473
+#: page-templates/template-one-page-personal.php:459
+#: page-templates/template-one-page-team.php:514
+msgid "Enquiry"
+msgstr ""
+
+#: page-templates/template-contact.php:81
+msgid "Your Email (required)"
+msgstr ""
+
+#: page-templates/template-contact.php:83
+msgid "Please enter your message..."
+msgstr ""
+
+#: page-templates/template-contact.php:111
+msgid "Tel:"
+msgstr ""
+
+#: page-templates/template-contact.php:113
+msgid "Mob:"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:344
+#: page-templates/template-team.php:59 partials/social-icons.php:5
+#: partials/social-links.php:7
+msgid "View Twitter Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:346
+#: page-templates/template-team.php:61
+msgid "View FaceBook Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:348
+#: page-templates/template-team.php:63 partials/social-icons.php:13
+#: partials/social-links.php:15
+msgid "View Google Plus Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:350
+#: page-templates/template-team.php:65 partials/social-icons.php:9
+#: partials/social-links.php:11
+msgid "View Linkedin Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:352
+#: page-templates/template-team.php:67 partials/social-icons.php:11
+#: partials/social-links.php:13
+msgid "View Pinterest Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:354
+#: page-templates/template-team.php:69 partials/social-icons.php:19
+#: partials/social-links.php:21
+msgid "View Dribbble Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:356
+#: page-templates/template-team.php:71 partials/social-icons.php:15
+#: partials/social-links.php:17
+msgid "View Flickr Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:358
+#: page-templates/template-team.php:73 partials/social-icons.php:17
+#: partials/social-links.php:19
+msgid "View Instagram Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:360
+#: page-templates/template-team.php:75 partials/social-icons.php:23
+#: partials/social-links.php:25
+msgid "View Vimeo Profile"
+msgstr ""
+
+#: page-templates/template-one-page-team.php:362
+#: page-templates/template-team.php:77 partials/social-icons.php:21
+#: partials/social-links.php:23
+msgid "View YouTube Profile"
+msgstr ""
+
+#: partials/social-icons.php:7 partials/social-links.php:9
+msgid "View Facebook Profile"
+msgstr ""
